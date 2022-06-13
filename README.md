@@ -3,8 +3,9 @@ Named Entity Recognition is a project which uses Natural Language Processing and
 where user has to enter the text and this app will predict what are the entities in the given input.
 
 # Software
-1. VS Code
-2. Python3
+1. VS Code (https://code.visualstudio.com)
+2. Python3 (https://python.org)
+3. git (https://git-scm.com)
 
 # Packages
 1. pip install streamlit
